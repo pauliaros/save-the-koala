@@ -10,7 +10,7 @@ army green: 41521F;
 
 
 
-.first-section{
+.primer-section{
 	background-image: url(../img/portada.jpg);
 	height: 100vh;
 	background-size: cover;
@@ -19,14 +19,14 @@ army green: 41521F;
 	padding-left: 80px;
 }
 
-.first-section h1{
+.primer-section h1{
 	padding-top: 2em;
 	color:#fff;
 	font-weight: 900;
 	font-size: 30px;
 }
 
-.first-section p{
+.primer-section p{
 	padding-top: 5px;
 	color:#fff;
 	font-weight: 500;
@@ -50,4 +50,81 @@ li a{
 	color:white !important;
 	text-shadow: 3px 3px 2px #000;
    color: #666;
+}
+
+
+
+.foundation-information{
+	font-size: 12px;
+	color: grey;
+}
+
+.titulo{
+	font-size:31px;
+	color: #B8B57A;
+	font-weight:bold;
+}
+
+.parrafo{
+	color: grey;
+}
+
+#foundation{
+	margin-top: 30px;
+	margin-bottom: 70px;
+	margin-right: 20px;
+}
+
+.texto-foundation{
+	padding-top: 150px;
+}
+
+.sub{
+	font-size:25px;
+	color: #B8B57A;
+	font-weight:bold;
+}
+
+#help{
+	background-color: #B8B57A;
+	height: 500px;
+
+}
+
+.thumbnail-2{
+	background: #41521F;
+	color: #fff;
+	padding: 10px;
+	border-color: #41521F;
+	width: 82px;
+	border-radius: 4px;
+}
+
+img.cosita{
+	margin-top: 110px;
+	border: 10px solid white;
+}
+
+.container-help{
+	margin-top: 150px;
+	margin-left: 150px;
+
+}
+
+.titulo-help{
+	font-size: 12px;
+	color: white;
+	margin-top: 110px;
+
+}
+
+.sub-help{
+	font-size:31px;
+	color:#41521F;
+	font-weight:bold;
+}
+
+.parrafo-help{
+	color:white;
+	margin-bottom:20px;
 }
