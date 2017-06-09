@@ -176,7 +176,7 @@ img.cosita{
 .row-icon{
 	text-align: center;
 	padding-left: 50px;
-	
+	background: white;
 	height: 300px;
 
 }
@@ -189,7 +189,7 @@ img.cosita{
 
 #donate{
 	background-color: #B8B57A;
-	height: 650px;
+	padding-bottom: 100px;
 
 }
 
@@ -206,7 +206,7 @@ hr{
 
 .row-donate{
 	padding-left: 50px;
-	padding-right: 50px;
+	padding-right: 5px;
 	
 }
 
@@ -240,4 +240,37 @@ sub{
     border-radius: 5px; 
 
 
+}
+
+footer{
+  background-color: #41521F;
+  color: #fff;
+  
+}
+.container-footer{
+  padding: 90px 90px;
+  
+}
+.title
+{
+  color: #B8B57A;
+  font-weight: 20px;
+}
+
+.email
+{
+  color: #B8B57A;
+}
+
+
+a{
+  list-style: none;
+  text-decoration: none;
+  color: #B8B57A;
+
+}
+
+.links{
+	padding-left: 40px;
+	line-height: 30px;
 }
